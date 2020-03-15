@@ -41,6 +41,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "wcmp", "wcmp\wcmp.vcxproj",
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "yesno", "yesno\yesno.vcxproj", "{C7CE7F71-494F-4C67-B036-2DFF6E1A193C}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "fcmp_rtrim", "fcmp_rtrim\fcmp_rtrim.vcxproj", "{49C5A4B6-0F5B-4BF8-9691-6A35FB906B3E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -127,6 +129,10 @@ Global
 		{C7CE7F71-494F-4C67-B036-2DFF6E1A193C}.Debug|Win32.Build.0 = Debug|Win32
 		{C7CE7F71-494F-4C67-B036-2DFF6E1A193C}.Release|Win32.ActiveCfg = Release|Win32
 		{C7CE7F71-494F-4C67-B036-2DFF6E1A193C}.Release|Win32.Build.0 = Release|Win32
+		{49C5A4B6-0F5B-4BF8-9691-6A35FB906B3E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{49C5A4B6-0F5B-4BF8-9691-6A35FB906B3E}.Debug|Win32.Build.0 = Debug|Win32
+		{49C5A4B6-0F5B-4BF8-9691-6A35FB906B3E}.Release|Win32.ActiveCfg = Release|Win32
+		{49C5A4B6-0F5B-4BF8-9691-6A35FB906B3E}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
